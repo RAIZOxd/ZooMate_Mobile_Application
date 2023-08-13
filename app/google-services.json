@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554896516971",
+    "project_id": "zoomate-andriod-application",
+    "storage_bucket": "zoomate-andriod-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554896516971:android:1f9a8538e6088e2d1e8e2e",
+        "android_client_info": {
+          "package_name": "com.example.zoo_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554896516971-mnlfls9gs8u166a91bdamqtu52lack73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAI8w-ODqRhvBQMAPHOdNyUffpXmVfB2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554896516971-mnlfls9gs8u166a91bdamqtu52lack73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

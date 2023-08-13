@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.zoo_application">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.NFC" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ZOO_APPLICATION">
+        <activity
+            android:name=".VAActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PelicanVActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PelicanIActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TigerIActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TigerVActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DeerIActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DeerVActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LionVActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LionIActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ElephantVActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ElephantIActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SignupActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ResetPasswordActivity"
+            android:exported="true" />
+        <activity android:name=".MainSplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="android.nfc.action.NDEF_DISCOVERY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ChatbotActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

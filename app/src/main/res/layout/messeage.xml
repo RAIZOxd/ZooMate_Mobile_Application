@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sendermessage"
+        android:background="@drawable/receviermessage"
+        android:layout_gravity="right"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:text="sendermessage"
+        android:fontFamily="@font/poppins_medium"
+        android:textColor="@android:color/white"
+        android:textSize="16sp">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/botmessage"
+        android:background="@drawable/sendermessage"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:fontFamily="@font/poppins_medium"
+        android:text="botmessage"
+        android:textColor="@android:color/black"
+        android:textSize="16sp">
+
+
+    </TextView>
+
+
+
+</LinearLayout>

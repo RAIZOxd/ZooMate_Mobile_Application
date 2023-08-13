@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zoomate-andriod-application",
+  "private_key_id": "e69a445395765993fc48ee38856e3d894b96d9c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9X/DZ1lHiwnax\nZWNDYCO8FKJZmHGpx18bDyegChbgSjlBYsCXPlOU8USt6bQipRPrRX1zwj5VWQyb\njzeX7b5ao7tdlZRj3gqhDt3UQIivw+FesKxj9VrUktyioq/4c2+xM6Hym+0q12Ro\nDGlBh7QAHdFP2fhZWtWgcgSll5LZ4i1Ei7ZjSsm1PWkeC4BCd9Pj53UJ9sKymY9c\nr5fRxJ4ODIpR59nvM9eZrzl/2BMJVTHHXpm5WFJ7edDy0v3Lol3AG7cZ32it7cnD\nF/PzBMij9RBdLOLd/pQRLbVTbKVD+0beHDgnGli+qORD/P/Yrml592jcgCY10ksQ\na49VQynVAgMBAAECggEABLjo/mGiCpvLTmqnEkXKNlU0ZDQRN4jddgUHea3uupqX\nOWpvP4ZCGs92ZTjT8V449C+4LGQOXl35WsK0QfFfgw6crD1/5QqjLLd8cB/I2Msz\nakNRFTAH2w+reVHBvhoQ0bQmKHDbdetHmXGfyU7LPgqATvOyRfYmKBlXxNJWCuFW\nKG0iCkHH169IssZeXOMiqXmmjROGtiCIoc3//vAHrZZshHRBMim+ecnuzMSqhCwc\nZcNP2NnkKrZr2solz5bjAxs++HDcNegRFLJT86/4evqFlgSuNj1MSJoOYmgP4KP9\nQSPtmqqPCInmqwt7gau04Qprw3tGrIMJxjEaZ44NoQKBgQD7QQnl/ABKgqO1CN+s\ndbC1gmu5KjUm6GER3qYSeqQv4awwpYqd4/mGwTvHL8As8fLVhw6p3+5Af0WR74Fl\nyEmFth3Y2RPMlTYHSzAo9G3lnG3WPsNlwPk13fQkSYkxqgooPKSHkKyWfcReMOBA\nvaCxO89BtZSmFz4DIC6U/C30NQKBgQDA863qWIQWkCNL+1Bh/r+Xh531A7vYi3wA\n57bDqAfbnKMQu/J0zVKTBgysH4nGjWXLr5275TQuUmyg4lgeOOOn/RswMHPJFzmz\nO35EoNkzUZ8vEaSMNAHhBA9kPlWaQugC7FDrqvaO+b8DepfS27wjWbgGRX++BzSk\newvkqrPTIQKBgQCnG0a+E7EN3X2MNm6tgUkaL7f92zimu/9zpyXFPJRe1DV11WQw\nRyP6oCJmBDhIrFLZ+Y2jJjCL7RoUSbtCOsfLiqinRRmKA+N/Tl6lnoxJHpVe3TeQ\nQZx+WzS5vb7lrTY8NLkpAOwI23TzQIamCHkL57+c8GwBW4v/ADR7Go5l0QKBgG+d\nxtJUZ/yBXtm6RFKbwgsO+XHduhFXBuGjKNdf4UPKBY5NmsC0cXr5OeVrzRBdhTBh\no5YozZmqNoqOxLie4hqwUMT8kk4WMFudI7rhbSPBqJra0twDzb5z0c+EO5Kj94CR\nYXIikMQ+dp+1kBP65odwhAKku3OayXoIb+XUVXfhAoGBAJLKAcW5mqDrpzK+PDXT\nT6sCY5shoyjJtFpiPNJYTl9PDIAQh1PfWm0lBZWp+wnCZu/PUXD1dJ5uVfQE83pj\nN8HdaHfgvMqmOlFVm8/3EbIQcF+A6Pn9ZwSpNTzG0f/r/YGb0i7UQddv1jdmtDsw\nBN0l4MQ2zGf/hELK8nSBZhTu\n-----END PRIVATE KEY-----\n",
+  "client_email": "zoomate-service-account@zoomate-andriod-application.iam.gserviceaccount.com",
+  "client_id": "112008855992792411202",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zoomate-service-account%40zoomate-andriod-application.iam.gserviceaccount.com"
+}

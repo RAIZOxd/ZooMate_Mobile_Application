@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="340dp"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/shape_dialog">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ready to Scan"
+        android:gravity="center"
+        android:fontFamily="@font/poppins_medium"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"/>
+
+    <ImageView
+        android:layout_width="98dp"
+        android:layout_height="131dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/nfc"
+        app:tint="@color/black" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight="1"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:background="@drawable/shape_dialog"
+        android:textColor="@color/black"
+        android:text="Hold your device near the animal name plate"/>
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:background="@drawable/btn_shep"
+        android:layout_gravity="center"
+        android:text="Cancel"
+        android:id="@+id/cancel_button"/>
+
+
+
+
+</LinearLayout>
