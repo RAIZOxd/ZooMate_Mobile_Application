@@ -12,4 +12,4 @@ Artificial Intelligence-based Chatbot. Also, provide useful information about th
 ## Tools Used 🛠️
 * [<b>NFC Tags</b>](https://www.nomtek.com/blog/what-are-nfc-tags) - To enter the details of each animal.
 
-If you have any feedback for the app please contact me at kavishka.tv99@gmail.com. :star: Star it, if you like it!
+* If you have any feedback for the app please contact me at kavishka.tv99@gmail.com. :star: Star it, if you like it!
