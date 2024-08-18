@@ -1,5 +1,5 @@
 <h1 align="center">ZooMate</h1>
----
+
 
 (ZooMate) Virtual Assistant Based on The Android Platform for Knowing About Zoo Animals. This project is to
 enhance the visiting experience of people at the zoological garden using an android application infused with an
