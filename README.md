@@ -1,4 +1,4 @@
-##ZooMate
+#ZooMate
 ---
 
 (ZooMate) Virtual Assistant Based on The Android Platform for Knowing About Zoo Animals. This project is to
